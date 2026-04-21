@@ -247,3 +247,4 @@ For issues or suggestions, please check the Flask terminal for error messages.
 
 **SalaryIQ** - Empowering professionals with data-driven salary insights.
 "# salary_prediction" 
+# salary_prediction
